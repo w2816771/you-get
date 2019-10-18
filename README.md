@@ -403,7 +403,7 @@ Use `--url`/`-u` to get a list of downloadable resource URLs extracted from the 
 | **niconico<br/>ニコニコ動画** | <http://www.nicovideo.jp/> |✓| | |
 | **163<br/>网易视频<br/>网易云音乐** | <http://v.163.com/><br/><http://music.163.com/> |✓| |✓|
 | 56网     | <http://www.56.com/>           |✓| | |
-| **AcFun** | <http://www.acfun.tv/>        |✓| | |
+| **AcFun** | <http://www.acfun.cn/>        |✓| | |
 | **Baidu<br/>百度贴吧** | <http://tieba.baidu.com/> |✓|✓| |
 | 爆米花网 | <http://www.baomihua.com/>     |✓| | |
 | **bilibili<br/>哔哩哔哩** | <http://www.bilibili.com/> |✓| | |
@@ -421,6 +421,7 @@ Use `--url`/`-u` to get a list of downloadable resource URLs extracted from the 
 | 荔枝FM   | <http://www.lizhi.fm/>         | | |✓|
 | 秒拍     | <http://www.miaopai.com/>      |✓| | |
 | MioMio弹幕网 | <http://www.miomio.tv/>    |✓| | |
+| MissEvan<br/>猫耳FM | <http://www.missevan.com/> | | |✓|
 | 痞客邦   | <https://www.pixnet.net/>      |✓| | |
 | PPTV聚力 | <http://www.pptv.com/>         |✓| | |
 | 齐鲁网   | <http://v.iqilu.com/>          |✓| | |
